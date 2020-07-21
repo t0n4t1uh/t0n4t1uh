@@ -10,7 +10,7 @@ Hola, soy t0n4t1uh🙍🏽‍♂️, un apasionado por la informática, hablando
 
 **Talking about Personal Stuffs:**
 
-Actualmente, soy estudiante de [Ingeniería Mecatrónica] (https://es.wikipedia.org/wiki/Ingenier%C3%ADa_mecatr%C3%B3nica) apasionado por la informática estoy estudiando, algunas cosas que hago son;
+Actualmente, soy estudiante de Ingeniería Mecatrónica, apasionado por la informática estoy estudiando, algunas cosas que hago son;
 - 👨🏽‍💻 Aprendiendo sobre seguridad informática
 - 💼 Trabajo en la creación de una distribución GNU/Linux hecha por mi.
 - 🌱 También, me gusta apoyar a causas ambientales. (Plantando arboles, limpiando zonas verdes, etc.)
