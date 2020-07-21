@@ -30,4 +30,4 @@ Actualmente, soy estudiante de Ingeniería Mecatrónica, apasionado por la infor
 
 ![t0n4t1uh github stats](https://github-readme-stats.vercel.app/api?username=t0n4t1uh&show_icons=true&hide_border=true)
 
-⭐️ From [CallmeMehdi](https://github.com/t0n4t1uh)
+⭐️ From [t0n4t1uh](https://github.com/t0n4t1uh)
