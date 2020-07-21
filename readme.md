@@ -8,7 +8,7 @@ Hola, soy t0n4t1uh🙍🏽‍♂️, un apasionado por la informática, hablando
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-**Talking about Personal Stuffs:**
+**Hablando de cosas personales:**
 
 Actualmente, soy estudiante de Ingeniería Mecatrónica, apasionado por la informática estoy estudiando, algunas cosas que hago son;
 - 👨🏽‍💻 Aprendiendo sobre seguridad informática
