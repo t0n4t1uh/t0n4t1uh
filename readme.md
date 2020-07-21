@@ -1,8 +1,6 @@
 ###  Me presento 👋, soy t0n4t1uh
 
 <br />
-<br />
-
 
 Hola, soy t0n4t1uh🙍🏽‍♂️, un apasionado por la informática, hablando de todas sus ramas, soy poco conocedor de la informática, pero a medida de que aprendo algo nuevo más me gusta, actualmente soy estudiante de Ingeniería Mecatrónica👨🏽‍, vivo en México y espero poder aprender más y ser capaz de desarrollar software 👨🏽‍💼 que le sea funcional a más de una persona.👨🏽‍💼. 
 
